@@ -48,7 +48,7 @@ h2{
     padding: 30px;
     border: 2px solid white;
     border-radius: 20px;
-    
+   
 }
 .My-mission img{
     width: 50%;
@@ -67,5 +67,17 @@ h2{
     padding-bottom: 8%;
     padding-right: 60px;
    
+}
+footer p{
+    text-align: center;
+    color: white;
+    
+}
+.choose-color{
+    color: red;
+}
+#footer-id{
+    background-color: black;
+    color: white;
 }
 
